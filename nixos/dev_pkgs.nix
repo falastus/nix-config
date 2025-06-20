@@ -43,6 +43,7 @@
       lcov
       ltrace
       pkg-config
+      R
       readline
       rr
       shellcheck
